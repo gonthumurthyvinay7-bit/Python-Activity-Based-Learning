@@ -3,6 +3,7 @@
 **Section:** CSE1   
 **Branch:** CSE  
 **Institution:** Dr. RVR NRI Institute of Technology  
+_______________________________________________________________________________________________________________________________
 1.Case Study 1:: University Scholarship Eligibility and Selection Analysis     
 2. Case Study 2:: Progressive Electricity Billing   
 3. Case Study 3:: Hospital Billing and Patient Classification       
